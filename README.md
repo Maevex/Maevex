@@ -2,9 +2,14 @@
 <h4>nice to meet you, my name is Ilham
 </h4>
 
-<p><a href="https://discord.com/users/454856762269368321">
+<p>
+    <a href="https://discord.com/users/454856762269368321">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+    <a href="https://www.instagram.com/arifeenilham_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+    
 </p>
 
 
