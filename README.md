@@ -1,6 +1,8 @@
 ### Hello everyone 👋
 #### nice to meet you, my name is Ilham
-#### i'm currently learning dart language
+
+https://discord.com/users/454856762269368321
+![image]({https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white})
 
 
 <!--
