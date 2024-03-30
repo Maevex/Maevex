@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arifin Ilham</h1>
 <h3 align="center">A computer science student at Binus University that interested in software engineering</h3>
 
-
-
 - 🌱 I’m currently learning **flutter**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -14,4 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aireef&show_icons=true&locale=en&layout=compact" alt="aireef" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aireef&show_icons=true&locale=en" alt="aireef" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aireef&" alt="aireef" /></p>
