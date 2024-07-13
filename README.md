@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arifin Ilham</h1>
 <h3 align="center">A computer science student at Binus University that interested in software engineering</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Mobile apps, focusing on flutter**
 
 
 <p align="left">
